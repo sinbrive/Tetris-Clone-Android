@@ -1,10 +1,9 @@
-# Tetris Android with Porcessing Lib and classes seperated
+# Tetris Clone Android with Porcessing Lib 
 
-- branch : one package (*.java)
+Tested on Samsung SM-G920
 
-- Put States in 'state' folder (two packages)
+Android Studio Dolphin | 2021.3.1 Patch 1
 
-- inspired by : https://github.com/Humayung/Stacker
+20.04.1-Ubuntu
 
-- Point class : extends PApplet to avoid PApplet parameter in constructor
-
+Library : processing-core.jar  ([Android mode for Processing 3](https://github.com/processing/processing-android/releases/tag/latest-processing3))
